@@ -1,0 +1,23 @@
+{
+  "name": "simple-api-using-join",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "André Luiz R. Arruda <andrebass27@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}
