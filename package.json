@@ -12,8 +12,8 @@
   "author": "André Luiz R. Arruda <andrebass27@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mysql2": "^2.0.0",
     "sequelize": "^5.21.1"
   },
